@@ -1,0 +1,6 @@
+{
+  "name": "Odia Calendar",
+  "description": "Odia Calendar with festivals, panjika dates, and daily rashi phala forecasts powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
